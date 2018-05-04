@@ -1,3 +1,4 @@
+# Coursera Course Project
 ## This markdown file is for the Coursera Project of getting and cleaning
 ## data.
 ## Original data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
