@@ -48,5 +48,5 @@ for (n in 1:numSubjects) {
         row = row+1
     }
 }
-write.table(clean, "merged.txt")
-write.table(result, "averages.txt")
+write.table(clean, "merged.txt",row.names = FALSE)
+write.table(result, "averages.txt",row.name = FALSE)
